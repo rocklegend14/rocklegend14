@@ -22,8 +22,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rocklegend14&style=for-the-badge&color=58A6FF"/>
-
 </div>
 
 ---
