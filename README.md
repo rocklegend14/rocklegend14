@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://dh7fs4us7ojdk.cloudfront.net/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gnaneshwaran-kumaravel-3b75862b5/">
@@ -30,32 +30,41 @@
 
 # 👨‍💻 About Me
 
-I'm **Gnaneshwaran K**, a **Full Stack Developer** with a strong foundation in
-software engineering, backend development, databases, cloud computing, and
-modern web technologies.
+I'm **Gnaneshwaran K**, a **Full Stack Developer** focused on building modern
+web applications, scalable backend systems, RESTful APIs, real-time
+applications, and cloud-based solutions.
 
-I build applications across the entire stack — from responsive,
-component-driven interfaces to RESTful APIs, relational database systems,
-authentication, authorization, real-time communication, and cloud-based
-deployments.
+I enjoy working across the entire stack — from designing responsive,
+component-driven interfaces to building backend architectures, relational
+database systems, authentication, authorization, real-time communication,
+and cloud deployments.
 
-I enjoy solving engineering problems involving **scalability, concurrency,
-data integrity, system design, and real-time communication**.
+I enjoy solving engineering problems involving:
+
+- ⚡ Scalability
+- 🔄 Concurrency
+- 🗄️ Data integrity
+- 🌐 Real-time communication
+- 🧩 System design
+- 🧠 Problem solving
 
 I'm also currently expanding my cloud expertise through the
 **AWS Solutions Architect – Associate (SAA)** course.
 
-### 💡 Areas I Enjoy Working With
+---
 
-- 🚀 Full Stack Web Development
-- ⚙️ Backend & REST API Development
-- 🗄️ Relational Database Design
-- 🔐 Authentication & Authorization
-- 🔄 Real-Time Applications
-- ⚡ Concurrent & Multi-Tiered Systems
-- ☁️ AWS Cloud Computing
-- 🧩 Software Architecture
-- 🧠 Data Structures & Algorithms
+# 🚀 What I Build
+
+<div align="center">
+
+| 💻 Full Stack | ⚙️ Backend | ☁️ Cloud | 🔄 Real-Time |
+|:---:|:---:|:---:|:---:|
+| Modern Web Apps | REST APIs | AWS | WebSockets |
+| React / Next.js | Node.js | EC2 | Collaboration |
+| Responsive UI | Express.js | S3 | Live Sync |
+| Component Architecture | JWT / RBAC | RDS | Concurrent Editing |
+
+</div>
 
 ---
 
@@ -167,7 +176,7 @@ I'm also currently expanding my cloud expertise through the
 
 # ☁️ AWS Cloud Journey
 
-## 🎯 Currently Learning: AWS Solutions Architect – Associate
+## 🎯 Currently Learning — AWS Solutions Architect Associate
 
 I'm currently pursuing the **AWS Solutions Architect – Associate (SAA)**
 course to strengthen my knowledge of cloud architecture and AWS services.
@@ -175,18 +184,23 @@ course to strengthen my knowledge of cloud architecture and AWS services.
 ### Areas I'm Exploring
 
 ```text
-☁️ AWS Cloud Fundamentals
-        │
-        ├── 🖥️ Compute
-        │
-        ├── 🗄️ Storage
-        │
-        ├── 🌐 Networking
-        │
-        ├── 🔐 Security
-        │
-        ├── 📈 Scalability
-        │
-        ├── 🛡️ Reliability
-        │
-        └── 💰 Cost Optimization
+                    ☁️ AWS CLOUD
+                         │
+       ┌─────────────────┼─────────────────┐
+       │                 │                 │
+       ▼                 ▼                 ▼
+   🖥️ Compute         🗄️ Storage       🌐 Networking
+       │                 │                 │
+       └─────────────────┼─────────────────┘
+                         │
+                         ▼
+                    🔐 Security
+                         │
+                         ▼
+                    📈 Scalability
+                         │
+                         ▼
+                    🛡️ Reliability
+                         │
+                         ▼
+                  💰 Cost Optimization
