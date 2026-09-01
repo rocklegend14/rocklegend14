@@ -343,13 +343,13 @@ problem-solving and algorithmic thinking.
 
 <img
   height="180"
-  src="./profile/stats.svg"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rocklegend14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
   alt="Gnaneshwaran's GitHub Stats"
 />
 
 <img
   height="180"
-  src="./profile/top-langs.svg"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rocklegend14&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
   alt="Top Languages"
 />
 
