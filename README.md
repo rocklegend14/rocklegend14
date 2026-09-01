@@ -361,10 +361,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocklegend14
 
 # 📈 GitHub Contribution Activity
 
+## 🐍 My Contributions
+
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rocklegend14&theme=tokyo-night&hide_border=true&area=true"/>
-
+<hr>
 </div>
 
 ---
