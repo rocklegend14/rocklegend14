@@ -341,17 +341,21 @@ problem-solving and algorithmic thinking.
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rocklegend14&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-  alt="Gnaneshwaran's GitHub Stats"
-/>
+<a href="https://github.com/rocklegend14">
+  <img
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=rocklegend14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="Gnaneshwaran's GitHub Stats"
+  />
+</a>
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocklegend14&layout=compact&hide_border=true&theme=tokyonight"
-  alt="Top Languages"
-/>
+<a href="https://github.com/rocklegend14">
+  <img
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rocklegend14&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+  />
+</a>
 
 </div>
 
@@ -359,7 +363,6 @@ problem-solving and algorithmic thinking.
 
 <div align="center">
 
-<!-- GitHub Streak -->
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=rocklegend14&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
@@ -389,23 +392,6 @@ problem-solving and algorithmic thinking.
 </picture>
 
 </div>
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/rocklegend14/rocklegend14/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/rocklegend14/rocklegend14/output/github-snake.svg">
-  <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/rocklegend14/rocklegend14/output/github-snake.svg">
-</picture>
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
