@@ -320,23 +320,6 @@ databases, APIs, and cloud deployment.
 
 ---
 
-# 🧠 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** to strengthen my
-problem-solving and algorithmic thinking.
-
-<div align="center">
-
-<a href="https://leetcode.com/u/K_Gnaneshwaran/">
-
-<img src="https://img.shields.io/badge/LeetCode-K__Gnaneshwaran-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
