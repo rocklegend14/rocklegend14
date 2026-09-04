@@ -224,31 +224,6 @@ concurrent applications, APIs, and scalable software architectures.
 
 ---
 
-# 🧩 Development Philosophy
-
-### 🔹 Build With Purpose
-
-I focus on building applications that solve real problems rather than
-just experimenting with technologies.
-
-### 🔹 Understand the System
-
-I enjoy understanding what happens behind the UI — APIs, databases,
-authentication, networking, concurrency, and infrastructure.
-
-### 🔹 Keep Learning
-
-I'm continuously expanding my skills across:
-
-**Full Stack Development → Backend Engineering → Cloud Architecture**
-
-### 🔹 Improve Through Projects
-
-I use projects to experiment with system design, real-time communication,
-databases, APIs, and cloud deployment.
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
