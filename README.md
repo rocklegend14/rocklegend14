@@ -208,6 +208,74 @@ reliable, scalable, and production-ready applications.
 
 ---
 
+# 🌟 Featured Projects
+
+## 🤝 CollabDoc — Real-Time Collaborative Text Editor
+
+<a href="https://github.com/rocklegend14/Colab_Doc">
+<img src="https://img.shields.io/badge/🔗%20Repository-CollabDoc-58A6FF?style=for-the-badge"/>
+</a>
+<a href="https://colab-doc-psi.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It-2EA44F?style=for-the-badge"/>
+</a>
+
+### `React 19` `Vite` `Node.js` `Express.js` `WebSockets` `Quill.js`
+
+A Google Docs-style real-time collaborative text editor for multiple
+simultaneous users — solving the same class of conflict-resolution problem
+that sits behind every production collaborative editor, from Google Docs
+to Figma.
+
+### 🔥 Engineering Highlights
+
+- 🔄 Developed a **custom Operational Transformation (OT) algorithm** to resolve concurrent editing conflicts
+- 🌐 Engineered a Node.js/Express **WebSocket server** for real-time sync
+- 🚀 Implemented low-latency synchronization of document state, cursor positions, and user presence
+- 💾 Added automatic saving and a **50-edit revision history**
+- 🌐 Deployed frontend on **Vercel**, backend on **Railway**
+
+---
+
+## 📝 Multi-Role Exam Registration Platform
+
+<a href="https://github.com/rocklegend14/Exam-Registration-System">
+<img src="https://img.shields.io/badge/🔗%20Repository-Exam%20Registration%20System-58A6FF?style=for-the-badge"/>
+</a>
+<a href="https://exam-registration-system-indol.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It-2EA44F?style=for-the-badge"/>
+</a>
+
+### `Next.js` `Node.js` `Express.js` `MySQL` `REST APIs` `JWT`
+
+A multi-role exam registration platform supporting simultaneous student
+and administrator workflows on a single system, built around a concurrent,
+multi-tiered RESTful API architecture.
+
+### 🔥 Engineering Highlights
+
+- 👥 Enabled simultaneous student and admin workflows on one platform
+- ⚡ Architected a concurrent, multi-tiered RESTful API system with Node.js and Express.js
+- 🗄️ Designed a **normalized MySQL schema** with foreign-key constraints for data integrity
+- 🔐 Implemented JWT-based authentication and **Role-Based Access Control (RBAC)**
+- 🔒 Secured **12 API endpoints** using middleware authorization
+- 🧪 Used Postman for API testing, including race-condition and concurrent-operation test scenarios
+
+---
+
+## 🤖 Revenue Recovery Agent — *In Progress*
+
+<a href="https://github.com/rocklegend14/revenue-recovery-agent">
+<img src="https://img.shields.io/badge/🔗%20Repository-Revenue%20Recovery%20Agent-58A6FF?style=for-the-badge"/>
+</a>
+
+### 🤖 AI / Automation
+
+Building an AI automation agent for the **Razorpay Buildathon**, focused on
+recovering failed or abandoned payment flows. Actively in development —
+full write-up coming once the build is complete.
+
+---
+
 # 🧠 Computer Science Foundations
 
 My development approach is supported by strong computer science
