@@ -346,43 +346,9 @@ concurrent applications, APIs, and scalable software architectures.
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://dh7fs4us7ojdk.cloudfront.net/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/gnaneshwaran-kumaravel-3b75862b5/">
-<img src="https://img.shields.io/badge/LinkedIn-Gnaneshwaran%20Kumaravel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/K_Gnaneshwaran/">
-<img src="https://img.shields.io/badge/LeetCode-K__Gnaneshwaran-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📍 Location
-
-<div align="center">
-
-🇮🇳 **Chennai, India**
-
-</div>
-
----
-
 <div align="center">
 
 ## 💭 Build. Learn. Deploy. Improve. Repeat.
-
-### Thanks for visiting my profile! 👋
 
 ⭐ Feel free to explore my repositories.
 
