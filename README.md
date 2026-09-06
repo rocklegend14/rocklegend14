@@ -276,22 +276,6 @@ full write-up coming once the build is complete.
 
 ---
 
-# 🧠 Computer Science Foundations
-
-My development approach is supported by strong computer science
-fundamentals.
-
-- 🧠 Data Structures & Algorithms
-- 🧩 Object-Oriented Design
-- 💻 Operating Systems
-- 🗄️ Database Management Systems
-- 📐 Complexity Analysis
-
-I apply these concepts when designing backend systems, database schemas,
-concurrent applications, APIs, and scalable software architectures.
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
