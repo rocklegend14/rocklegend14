@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://dh7fs4us7ojdk.cloudfront.net/">
+<a href="https://gnaneshwaran.me/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
