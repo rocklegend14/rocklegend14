@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://leetcode.com/u/K_Gnaneshwaran/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=96" alt="leetcode"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=50" alt="leetcode"/>
 </a>
 
 <br/><br/>
