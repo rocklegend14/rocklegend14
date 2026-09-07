@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://gnaneshwaran.me/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=50" alt="My Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gnaneshwaran-kumaravel-3b75862b5/">
