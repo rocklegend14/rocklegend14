@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/gnaneshwaran-kumaravel-3b75862b5/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="[https://skillicons.dev/icons?i=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"/>
 </a>
 
 <a href="https://leetcode.com/u/K_Gnaneshwaran/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=50" alt="leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
